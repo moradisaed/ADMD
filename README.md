@@ -10,7 +10,7 @@ If you are using this code in your researches, kindly cite the following paper:
 
 ## MATLAB
 
-You can find the single-scale (7by7) implementation of the ADMD algorithm in MATLAB subdirectory. The multi-scale version can be constructed by easily constructed using max selection among different scales (see the paper for further information). To achieve saliency-map, just pass the image though **AdMD7_eff** function:
+You can find the single-scale (7by7) implementation of the ADMD algorithm in MATLAB subdirectory. The multi-scale version can be easily constructed by max selection among different scales (see the paper for further information). To achieve saliency-map, just pass the test image through **AdMD7_eff** function:
 
 ```
 Filtered_image = AdMD7_eff( img)

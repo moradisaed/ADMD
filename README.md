@@ -12,9 +12,9 @@ If you are using this code in your researches, kindly cite the following paper:
 
 You can find the single-scale (7by7) implementation of the ADMD algorithm in MATLAB subdirectory. 
 
-'''
+```
 Filtered_image = AdMD7_eff( img)
-'''
+```
 
 ## OpenCV
 

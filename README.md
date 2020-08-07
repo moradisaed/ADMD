@@ -12,17 +12,15 @@ If you are using this code in your researches, kindly cite the following paper:
 
 You can find the single-scale (7by7) implementation of the ADMD algorithm in MATLAB subdirectory. The multi-scale version can be constructed by easily constructed using max selection among different scales (see the paper for further information). To achieve saliency-map, just pass the image though **AdMD7_eff** function:
 
-    h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-
 ```
 Filtered_image = AdMD7_eff( img)
 ```
 
 ## OpenCV
 
+Both single and multi-scale implementation of the ADMD algorithm can be found in CPP subdirectory. 
+The codes are implemented using OpenCV 3.4 in Ubuntu 18.04 environment. 
 
-
-The code is implemented using OpenCV 3.4 in Ubuntu 18.04 environment. It is not tested for other OpenCV versions, but it should work. 
 ### Prerequisites
 [OpenCV](http://opencv.org/)
 

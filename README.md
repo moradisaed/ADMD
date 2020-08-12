@@ -1,7 +1,7 @@
 # ADMD
 Absolute directional mean difference (ADMD) algorithm for small infrared target detection
 
-Both MATLAB and OpenCV implementation of the following paper:
+Both MATLAB and OpenCV implementations of the following paper:
 Fast and robust small infrared target detection using absolute directional mean difference algorithm
 
 If you are using these codes in your researches, kindly cite the following paper:

@@ -6,7 +6,7 @@ Fast and robust small infrared target detection using absolute directional mean 
 
 If you are using these codes in your researches, kindly cite the following paper:
 
-[Moradi, Saed, Payman Moallem, and Mohamad Farzan Sabahi. "Fast and robust small infrared target detection using absolute directional mean difference algorithm." Signal Processing (2020)](https://www.sciencedirect.com/science/article/abs/pii/S016516842030270X)
+[Moradi, Saed, Payman Moallem, and Mohamad Farzan Sabahi. "Fast and robust small infrared target detection using absolute directional mean difference algorithm." Signal Processing 177 (2020): 107727](https://www.sciencedirect.com/science/article/abs/pii/S016516842030270X)
 
 ## MATLAB
 
